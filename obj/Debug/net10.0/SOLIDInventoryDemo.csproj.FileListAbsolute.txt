@@ -1,0 +1,14 @@
+C:\Users\rsnav\Documents\C#\SOLIDInventoryDemo\bin\Debug\net10.0\SOLIDInventoryDemo.exe
+C:\Users\rsnav\Documents\C#\SOLIDInventoryDemo\bin\Debug\net10.0\SOLIDInventoryDemo.deps.json
+C:\Users\rsnav\Documents\C#\SOLIDInventoryDemo\bin\Debug\net10.0\SOLIDInventoryDemo.runtimeconfig.json
+C:\Users\rsnav\Documents\C#\SOLIDInventoryDemo\bin\Debug\net10.0\SOLIDInventoryDemo.dll
+C:\Users\rsnav\Documents\C#\SOLIDInventoryDemo\bin\Debug\net10.0\SOLIDInventoryDemo.pdb
+C:\Users\rsnav\Documents\C#\SOLIDInventoryDemo\obj\Debug\net10.0\SOLIDInventoryDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rsnav\Documents\C#\SOLIDInventoryDemo\obj\Debug\net10.0\SOLIDInventoryDemo.AssemblyInfoInputs.cache
+C:\Users\rsnav\Documents\C#\SOLIDInventoryDemo\obj\Debug\net10.0\SOLIDInventoryDemo.AssemblyInfo.cs
+C:\Users\rsnav\Documents\C#\SOLIDInventoryDemo\obj\Debug\net10.0\SOLIDInventoryDemo.csproj.CoreCompileInputs.cache
+C:\Users\rsnav\Documents\C#\SOLIDInventoryDemo\obj\Debug\net10.0\SOLIDInventoryDemo.dll
+C:\Users\rsnav\Documents\C#\SOLIDInventoryDemo\obj\Debug\net10.0\refint\SOLIDInventoryDemo.dll
+C:\Users\rsnav\Documents\C#\SOLIDInventoryDemo\obj\Debug\net10.0\SOLIDInventoryDemo.pdb
+C:\Users\rsnav\Documents\C#\SOLIDInventoryDemo\obj\Debug\net10.0\SOLIDInventoryDemo.genruntimeconfig.cache
+C:\Users\rsnav\Documents\C#\SOLIDInventoryDemo\obj\Debug\net10.0\ref\SOLIDInventoryDemo.dll
