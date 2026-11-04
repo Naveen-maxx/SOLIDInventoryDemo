@@ -1,0 +1,24 @@
+# SOLIDInventoryDemo
+
+A simple C# console application for managing product inventory using SOLID principles. It demonstrates adding and listing products with separate classes for business logic, storage, and presentation.
+
+SOLID PRINCIPLES – REFACTORING EXPLANATION
+
+1. Single Responsibility Principle (SRP):
+   The original design combined product management, validation, storage, and console display in one class. I separated these responsibilities into ProductService, InMemoryProductRepository, Product, and ConsoleProductOutput.
+
+2. Open/Closed Principle (OCP):
+   The original design was difficult to extend with new storage mechanisms. I introduced interfaces so new repository implementations can be added without modifying the existing business logic.
+
+3. Liskov Substitution Principle (LSP):
+   The refactored design uses clear interface contracts. Any implementation of the product reader and writer interfaces should be replaceable without breaking the expected application behaviour.
+
+4. Interface Segregation Principle (ISP):
+   Instead of using one large interface, I created two smaller interfaces: IProductReader for retrieving products and IProductWriter for adding products. This avoids unnecessary dependencies.
+
+5. Dependency Inversion Principle (DIP):
+   ProductService depends on abstractions rather than directly depending on the concrete repository implementation. This makes the application easier to maintain and extend.
+
+REFACTORING APPROACH:
+
+I separated the application into Models, Interfaces, Repositories, Services, and Presentation folders. Each component has a clearly defined responsibility. The refactored application preserves the original functionality of adding and listing products while improving code readability, maintainability, and extensibility.
